@@ -1,0 +1,11 @@
+To compile the code:
+
+1. cd to build folder
+2. cmake ../
+3. make
+
+To run the simulation
+
+1. ./exampleB2a
+2. /run/beamOn 10
+3. results are saved in the particleTracks.root
